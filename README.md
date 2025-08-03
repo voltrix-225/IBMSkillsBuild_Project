@@ -1,6 +1,8 @@
 # LearnMate – Agentic AI for Personalized Course Pathways
 
+
 '''
+bash
 this repo contains all the necessary certificates, Agent Code file and Project PPT PDF
 '''
 
