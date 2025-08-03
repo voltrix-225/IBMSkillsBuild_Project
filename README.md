@@ -1,4 +1,8 @@
-#LearnMate – Agentic AI for Personalized Course Pathways
+# LearnMate – Agentic AI for Personalized Course Pathways
+
+'''
+this repo contains all the necessary certificates, Agent Code file and Project PPT PDF
+'''
 
 
 LearnMate is an agentic AI learning coach that builds personalized and adaptive course pathways for students based on their interests, current skill level, and learning preferences.
